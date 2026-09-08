@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://synegieinfra.github.io/snippets-lml36m/sitemap.xml
